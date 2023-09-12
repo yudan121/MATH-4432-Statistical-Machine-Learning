@@ -20,7 +20,7 @@ To get a full view of the slides, I recommend you open the `.html` files (e.g., 
 
 I also provide the PDF version via John Paul Helveston and Garrick Aden-Buie's R package [renderthis](https://github.com/jhelvy/renderthis).
 
-```
+```r
 renderthis::to_pdf(from = "filename.Rmd", complex_slides = TRUE, partial_slides = FALSE)
 ```
 
