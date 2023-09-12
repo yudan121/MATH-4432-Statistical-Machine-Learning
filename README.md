@@ -31,7 +31,7 @@ renderthis::to_pdf(from = "filename.Rmd", complex_slides = TRUE, partial_slides 
 
 ## Acknowledgments
 
-* The tutorial notes are modified and supplemented based on the materials from my senior fellow apprentices.
+* The tutorial notes are modified and supplemented based on the materials from our "elder academic brother" (大师兄), Prof. CAI Mingxuan, CityU.
 * Slides created via Yihui Xie's R package [xaringan](https://github.com/yihui/xaringan).
 * Theme customized via Garrick Aden-Buie's R package [xaringanthemer](https://github.com/gadenbuie/xaringanthemer).
 * Tabbed panels created via Garrick Aden-Buie's R package [xaringanExtra](https://github.com/gadenbuie/xaringanExtra/).
