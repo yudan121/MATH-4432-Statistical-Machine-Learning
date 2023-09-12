@@ -1,4 +1,5 @@
-# Tutorials for MATH-4432-Statistical-Machine-Learning 2023 Fall
+# Tutorials for MATH 4432 Statistical Machine Learning
+
 ## Course information
 
 MATH 4432 Statistical Machine Learning
